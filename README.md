@@ -39,5 +39,7 @@ I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engineer
 #### In On The Joke...?
 In On The Joke...? was what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit: https://globalgamejam.org/games/2024/joke-2. The repo can also be found here: https://github.com/ElijahTanimowo/GlobalGameJam2024.
 
+#
+
 #### Gear 5
 Gear 5 was the culmative result of two semesters worth or learning how to connect software with hardware seemlessly and effiently. To view more information on this Final Capstone Project please visit: https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html. The repo can also be found here: https://github.com/ElijahTanimowo/Nika.
