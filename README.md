@@ -8,4 +8,4 @@ I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engineer
 
 ### Languages & Tools
 
-<img align="left" alt "C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
+<img align="left" alt = "C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
