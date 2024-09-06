@@ -24,6 +24,7 @@ I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engineer
 <img align="left" alt = "Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
 <img align="left" alt = "SDL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg"/>
 <img align="left" alt = "OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
+<br/>
 
 ### Education
 - **Game Programming** - *Advanced Diploma* | Humber College, 2023 - Current
