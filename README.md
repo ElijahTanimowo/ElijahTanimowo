@@ -2,7 +2,7 @@
 
 **`Game Developer & Computer Engineer`**
 
-I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engineer. I graduated with a degree in Computer Engineering Technology at Humber College in 2023 and decided to further pursue my studies into the field of Game Programming. I hope to learn new skills and improve my current ones as I enter the industry.
+Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engineer. I graduated with a degree in Computer Engineering Technology at Humber College in 2023 and decided to further pursue my studies into the field of Game Programming. I hope to learn new skills and improve my current ones as I enter the industry.
 
 ---
 
