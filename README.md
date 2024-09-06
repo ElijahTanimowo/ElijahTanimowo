@@ -6,7 +6,7 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ---
 
-### 💻 Languages & Tools
+## Languages & Tools 💻
 
 <img align="left" alt = "Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt = "Unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
@@ -28,13 +28,13 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ---
 
-### 🎓 Education
+## Education 🎓
 - **Game Programming** - *Advanced Diploma* | Humber College, 2023 - Current
 - **Computer Engineering Technology** - *Advanced Diploma* | Humber College, 2020 - 2023
 
 ---
 
-### 🗂️ Projects
+## Projects 🗂️
 
 #### In On The Joke...?
 In On The Joke...? was what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit: https://globalgamejam.org/games/2024/joke-2. The repo can also be found here: https://github.com/ElijahTanimowo/GlobalGameJam2024.
