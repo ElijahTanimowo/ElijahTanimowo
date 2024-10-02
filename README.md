@@ -42,4 +42,4 @@ In On The Joke...? was what my team and I created for the 2024 Global Game Jam, 
 #
 
 #### Gear 5
-Gear 5 was the culmative result of two semesters worth or learning how to connect software with hardware seemlessly and effiently. To view more information on this Final Capstone Project please visit: https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html. The repo can also be found here: https://github.com/ElijahTanimowo/Nika.
+Gear 5 was the cumulative result of two semesters' worth of learning how to connect software with hardware seamlessly and efficiently. To view more information on this Final Capstone Project please visit: https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html. The repo can also be found here: https://github.com/ElijahTanimowo/Nika.
