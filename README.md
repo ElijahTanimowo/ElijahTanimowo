@@ -36,10 +36,15 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ## Projects 🗂️
 
+#### Night Resuscitation
+Night Resuscitation is a game that a small group and I put together for Scream Jam 2024, which took place over one week. We came up with an idea and created a short horror game, giving me the chance to work with sounds and animations more in depth. To view more info please visit the [ScreamJam](https://itch.io/jam/scream-jam-2024) page. The repo can also be found [here](https://github.com/ElijahTanimowo/ScreamJam2024) and the game [here](https://deshina.itch.io/night-resuscitation).
+
+#
+
 #### In On The Joke...?
-In On The Joke...? was what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit: https://globalgamejam.org/games/2024/joke-2. The repo can also be found here: https://github.com/ElijahTanimowo/GlobalGameJam2024.
+In On The Joke...? was what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit the Global Game Jam 2024 page [here](https://globalgamejam.org/games/2024/joke-2). The repo can also be found [here](https://github.com/ElijahTanimowo/GlobalGameJam2024).
 
 #
 
 #### Gear 5
-Gear 5 was the cumulative result of two semesters' worth of learning how to connect software with hardware seamlessly and efficiently. To view more information on this Final Capstone Project please visit: https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html. The repo can also be found here: https://github.com/ElijahTanimowo/Nika.
+Gear 5 was the cumulative result of two semesters' worth of learning how to connect software with hardware seamlessly and efficiently. To view more information on this Final Capstone Project please visit [here](https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html). The repo can also be found [here](https://github.com/ElijahTanimowo/Nika).
