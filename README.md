@@ -34,7 +34,7 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ---
 
-## Projects 🗂️
+## Top Projects 🗂️
 
 #### Possession Protocol
 Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split screen game that can be played with controllers. I created the logic behind various UI elements along side crucial game features including loading and settings to help bring the game to life.
