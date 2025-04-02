@@ -36,6 +36,13 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ## Projects 🗂️
 
+#### Possession Protocol
+Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split screen game that can be played with controllers. I created the logic behind various UI elements along side crucial game features including loading and settings to help bring the game to life.
+
+UI Programming and Implementation
+
+#
+
 #### Night Resuscitation
 Night Resuscitation is a game that a small group and I put together for Scream Jam 2024, which took place over one week. We came up with an idea and created a short horror game, giving me the chance to work with sounds and animations more in depth. To view more info please visit the [ScreamJam](https://itch.io/jam/scream-jam-2024) page. The repo can also be found [here](https://github.com/ElijahTanimowo/ScreamJam2024) and the game [here](https://deshina.itch.io/night-resuscitation).
 
