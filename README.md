@@ -37,7 +37,7 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 ## Top Projects 🗂️
 
 #### Possession Protocol
-Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split screen game that can be played with controllers. I created the logic behind various UI elements along side crucial game features including loading and settings to help bring the game to life.
+Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split-screen game that can be played with controllers. I created the logic behind various UI elements alongside crucial game features, including loading and settings, to help bring the game to life. The game is available on itch [here](https://marwan-e.itch.io/possession-protocol).
 
 UI Programming and Implementation
 
@@ -65,6 +65,6 @@ Programmer, Game Designer & Main Animator
 #
 
 #### Gear 5
-Gear 5 was the cumulative result of two semesters' worth of learning how to connect software with hardware seamlessly and efficiently. To view more information on this Final Capstone Project please visit [here](https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html). The repo can also be found [here](https://github.com/ElijahTanimowo/Nika).
+Gear 5 was the cumulative result of two semesters' worth of learning how to connect software with hardware seamlessly and efficiently. The repo can also be found [here](https://github.com/ElijahTanimowo/Nika).
 
 Concept, Programming, 3D Printing & Design, PCB Design & Soldering
