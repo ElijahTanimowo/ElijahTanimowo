@@ -51,9 +51,16 @@ Programmer, Artist, Music, & Animations
 #
 
 #### In On The Joke...?
-In On The Joke...? was what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit the Global Game Jam 2024 page [here](https://globalgamejam.org/games/2024/joke-2). The repo can also be found [here](https://github.com/ElijahTanimowo/GlobalGameJam2024).
+In On The Joke...? is what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit the Global Game Jam 2024 page [here](https://globalgamejam.org/games/2024/joke-2). The repo can also be found [here](https://github.com/ElijahTanimowo/GlobalGameJam2024).
 
 Implementation and Front-End Development
+
+#
+
+#### AR Battleship
+AR Battleship is a project that two other students and I developed at Humber College where we had to recreate a classic board game as a mobile augmented reality experience. The repo can also be found [here](https://github.com/RalphRobes0324/AR_Battleship).
+
+Programmer, Game Designer & Main Animator
 
 #
 
