@@ -58,7 +58,7 @@ Implementation and Front-End Development
 #
 
 #### AR Battleship
-AR Battleship is a project that two other students and I developed at Humber College where we had to recreate a classic board game as a mobile augmented reality experience. The repo can also be found [here](https://github.com/RalphRobes0324/AR_Battleship).
+AR Battleship is a project that two other students and I developed at Humber College where we had to recreate a classic board game as a mobile augmented reality experience. The repo can also be found [here](https://github.com/ElijahTanimowo/AR_Battleship).
 
 Programmer, Game Designer & Main Animator
 
