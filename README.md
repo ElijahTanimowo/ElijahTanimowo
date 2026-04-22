@@ -48,28 +48,28 @@ Tools Programmer, Graphics Programmer, Game Design, Gameplay Programmer, Charact
 #
 
 #### Possession Protocol
-Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split-screen game that can be played with controllers. I created the logic behind various UI elements alongside crucial game features, including loading and settings, to help bring the game to life. The game is available on itch [here](https://marwan-e.itch.io/possession-protocol).
+Possession Protocol is a project created in collaboration with the art program to develop a local multiplayer split-screen game playable with controllers. I created the logic behind various UI elements alongside crucial game features, including loading and settings, to help bring the game to life. The game is available on itch [here](https://marwan-e.itch.io/possession-protocol). The repo can also be found [here](https://github.com/Humber-Game-Production/GAME259_2025_Winter_A).
 
 UI Programming and Implementation
 
 #
 
 #### Night Resuscitation
-Night Resuscitation is a game that a small group and I put together for Scream Jam 2024, which took place over one week. We came up with an idea and created a short horror game, giving me the chance to work with sounds and animations more in depth. To view more info please visit the [ScreamJam](https://itch.io/jam/scream-jam-2024) page. The repo can also be found [here](https://github.com/ElijahTanimowo/ScreamJam2024) and the game [here](https://deshina.itch.io/night-resuscitation).
+Night Resuscitation is a game that a small group and I put together for Scream Jam 2024, which took place over one week. We came up with an idea and created a short horror game, giving me the chance to work with sounds and animations more in-depth. To view more info, please visit the [ScreamJam](https://itch.io/jam/scream-jam-2024) page. The repo can also be found [here](https://github.com/ElijahTanimowo/ScreamJam2024) and the game [here](https://deshina.itch.io/night-resuscitation).
 
 Programmer, Artist, Music, & Animations
 
 #
 
 #### In On The Joke...?
-In On The Joke...? is what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info please visit the Global Game Jam 2024 page [here](https://globalgamejam.org/games/2024/joke-2). The repo can also be found [here](https://github.com/ElijahTanimowo/GlobalGameJam2024).
+In On The Joke...? is what my team and I created for the 2024 Global Game Jam, which saw us create a game within 48 hours based on the topic "Make Me Laugh". To view more info, please visit the Global Game Jam 2024 page [here](https://globalgamejam.org/games/2024/joke-2). The repo can also be found [here](https://github.com/ElijahTanimowo/GlobalGameJam2024).
 
 Implementation and Front-End Development
 
 #
 
 #### AR Battleship
-AR Battleship is a project that two other students and I developed at Humber College where we had to recreate a classic board game as a mobile augmented reality experience. The repo can also be found [here](https://github.com/ElijahTanimowo/AR_Battleship).
+AR Battleship is a project that two other students and I developed at Humber College, in which we recreated a classic board game as a mobile augmented reality experience. The repo can also be found [here](https://github.com/ElijahTanimowo/AR_Battleship).
 
 Programmer, Game Designer & Main Animator
 
