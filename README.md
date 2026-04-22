@@ -36,6 +36,15 @@ Hi, I'm Elijah Tanimowo from Canada, and I am a Game Developer and Computer Engi
 
 ## Top Projects 🗂️
 
+#### Budget Engine | Nebulas Breach
+The Budget Engine is a C++-based custom game engine designed for my final capstone at Humber Polytechnic's Game Programming program. The engine is coded in C++ while the scripting is in C#. Nebulas Breach is the game that was created to showcase the engine. 
+Nebulas Breach Description: Doom-like shooter where you must navigate a semi-destroyed spaceship and repair it enough to call for rescue. But be careful, you are not alone.
+The repo can be found [here](https://github.com/ElijahTanimowo/BudgetEngine).
+
+Tools Programmer, Graphics Programmer, Game Design, Gameplay Programmer, Character Programmer, Music & SFX Design, Combat Programmer & Level Designer
+
+#
+
 #### Possession Protocol
 Possession Protocol is a project created in collaboration with the art program with the goal of creating a local multiplayer split-screen game that can be played with controllers. I created the logic behind various UI elements alongside crucial game features, including loading and settings, to help bring the game to life. The game is available on itch [here](https://marwan-e.itch.io/possession-protocol).
 
