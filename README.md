@@ -43,6 +43,8 @@ Nebulas Breach Description: Doom-like shooter where you must navigate a semi-des
 
 The repo can be found [here](https://github.com/ElijahTanimowo/BudgetEngine).
 
+The Humber Library Documentattion can be found [here](https://humber.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01OCLS_HUMB:HUMB&search_scope=MyInst_and_CI&tab=Everything&lang=en&docid=alma991001651684507314).
+
 Tools Programmer, Graphics Programmer, Game Design, Gameplay Programmer, Character Programmer, Music & SFX Design, Combat Programmer & Level Designer
 
 #
